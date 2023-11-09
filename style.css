@@ -1,0 +1,23 @@
+* {
+  background: rgb(121, 238, 160);
+}
+
+h1 {
+  background: gray;
+  color: aquamarine;
+}
+
+h2 {
+  background: goldenrod;
+  color: #fff;
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+}
+
+p:hover {
+  background: gray;
+  color: red;
+}
